@@ -1,0 +1,4 @@
+../Drivers/LSM303AGR_Driver/bsp_io.c:14:6:COMPASSACCELERO_IO_Init	1
+../Drivers/LSM303AGR_Driver/bsp_io.c:26:6:COMPASSACCELERO_IO_Write	1
+../Drivers/LSM303AGR_Driver/bsp_io.c:39:9:COMPASSACCELERO_IO_Read	1
+../Drivers/LSM303AGR_Driver/bsp_io.c:53:6:COMPASSACCELERO_IO_ITConfig	1
